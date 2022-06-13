@@ -1,0 +1,99 @@
+
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+article
+{
+	background: #540A03;
+	border-radius: .5em;
+	margin: .35em;
+	min-height: 120px;
+	padding: .25em;
+}
+
+body
+{
+	background: #FFF url(../img/cinema.jpg);
+	color: white;
+	font-family: "Chalet", Helvetica, Verdana;
+	font-size: 1em;
+   
+}
+header
+{/*s*/
+	background: #891105;
+	border-radius: .5em;
+	margin: .25em auto;
+	padding: .25em;
+	text-align: center;
+	width: 90%;
+}
+nav
+{
+	background: #540A03  ;
+	border-radius: .5em;
+    font-size: 20px;
+	font-family: "Bodoni MT";
+	margin: .25em auto;
+	padding: .8em;
+	text-align: center;
+	width: 80%;
+} 
+
+footer
+{
+	background: #540A03  ;
+	border-radius: .5em;
+	margin: .25em auto;
+	padding: .25em;
+	text-align: center;
+	width: 90%;
+}
+
+h1
+{
+	color: #AE1B0C;
+	margin: .25em;
+	text-align: left; 
+	text-shadow: 5px 5px 10px rgba(255,255,255,.5);
+	width: 90%;
+}
+h4
+{
+	color: #ffc309;
+	margin: .25em auto; 
+	text-align: center; 
+	text-shadow: 5px 5px 10px rgba(255,255,255,.5);
+	width: 90%;
+}
+
+
+h6
+{
+	color: #FFF;
+	margin: .25em auto; 
+	text-align: center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,.5);
+	width: 90%;
+}
+#contenedor
+{
+	color: #FFF;
+	margin: .25em auto;
+	padding: 0;
+	text-align: center;
+	width: 80%; /*84.5%*/
+}
+p {
+  color:#025907;		
+  font: oblique bold 50% cursive;
+}
+
+
+
+
+
